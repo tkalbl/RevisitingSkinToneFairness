@@ -1,4 +1,4 @@
-# RevisitingSkinToneFairness
+# Revisiting Skin Tone Fairness in Dermatology
 This repository contains the code to reproduce the experiments in the paper "Revisiting Skin Tone Fairness in Dermatological Lesion Classification", submitted to the [FAIMI workshop 2023](https://faimi-workshop.github.io/2023-miccai/) @ MICCAI 2023.
 
 ## Data
