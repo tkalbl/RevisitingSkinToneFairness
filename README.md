@@ -15,5 +15,6 @@ The results and their visualisations can be reproduced with the predictions fold
 Results regarding the comparison of skin tone estimates, prior to lesion classification, have been created with Tableau and can be reproduced with the Bevan_corrected.csv (RP,RP2) and with the ITA labels within the metadata.csv.
 
 ## Experimental Setup:
-The experiments including the model training and grid search optimization of the MobileNetV2 are in the python files "\*Baseline\*.py" and "\*DataShift\*.py". \\
+The experiments including the model training and grid search optimization of the MobileNetV2 are in the python files "\*Baseline\*.py" and "\*DataShift\*.py".
+
 Also the optimization of the baseline classifier has been included in the 00Baseline02GridOptimization.py
