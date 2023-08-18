@@ -4,9 +4,7 @@ This repository contains the code to reproduce the experiments in the paper "Rev
 ## Data
 The dataset is the ISIC18 dataset (Task 3). It can be downloaded [here](https://challenge.isic-archive.com/data/#2018). The images should be in the same folder as the metadata.csv.
 
-For full reproducability of the experiments with Deep Learning-based Healthy Skin Segmentation (DLHSS), the original skin tone (ITA) labels from [Kinyanjui et al.](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_31) are necessary in the metadata.csv (data/.../metadata.csv).
-Since they were not previously published, they are anonymized here.
-They were provided on request by the authors of [Kinyanjui et al.](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_31).
+The skin tone estimations based on the Individual Topology Angle (ITA) with the Deep Learning-based Healthy Skin Segmentation (DLHSS), the ITA labels provided by the authors of [Kinyanjui et al.](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_31) are the estimated_ita in the metadata.csv (data/.../metadata.csv).
 
 For the skin tone estimation with Random Patch approaches, with arctan (RP) and with arctan2 (RP2), the code in the BevanCorrection notebook has been slightly adapted from [Bevan et Atapour-Abarghouei](https://github.com/pbevan1/Detecting-Melanoma-Fairly).
 
