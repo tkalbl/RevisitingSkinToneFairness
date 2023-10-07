@@ -1,6 +1,10 @@
 # Revisiting Skin Tone Fairness in Dermatology
 This repository contains the code to reproduce the experiments in the paper "[Revisiting Skin Tone Fairness in Dermatological Lesion Classification](https://arxiv.org/abs/2308.09640v1)", accepted at the [FAIMI workshop 2023](https://faimi-workshop.github.io/2023-miccai/) @ MICCAI 2023.
 
+## Summary
+
+![Poster Presentation](./FAIMI2023_RevisitingSkinTone_Poster.PNG)
+
 ## Data
 The dataset is the ISIC18 dataset (Task 3). It can be downloaded [here](https://challenge.isic-archive.com/data/#2018). The images should be in the same folder as the metadata.csv.
 
